@@ -1,0 +1,13 @@
+# Executables
+exercise1_sigint
+exercise2_sigalrm
+exercise3_sigusr1
+exercise4_signals_input
+
+# Object files
+*.o
+
+# Backup files
+*~
+*.bak
+
